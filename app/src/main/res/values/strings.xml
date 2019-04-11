@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NFC Writer</string>
+    <string name="title_write">Write</string>
+    <string name="title_read">Match</string>
+    <string name="title_about">About</string>
+    <string name="menu_prompt">Click on any of the menu items below</string>
+</resources>
